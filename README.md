@@ -29,7 +29,7 @@ Feel free to shoot me a message directly at my other handles linked below about 
 
 <h1 align="left">Connect with me</h1>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/twitter-logo-svg-vector.svg" alt="twitter logo" height="50" width="40"/></a>
+<!-- <a href="" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/twitter-logo-svg-vector.svg" alt="twitter logo" height="50" width="40"/></a> -->
 <a href="" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="linkedin logo" height="45" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png?w=300&h=400" alt="instagram logo" height="45" width="40"/></a>
 <a href="" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow logo" height="40" width="50" /></a>
@@ -38,6 +38,6 @@ Feel free to shoot me a message directly at my other handles linked below about 
 <h1 align="left">Some Github Stats</h1>
 <br/>
 
-[![gseymour1's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thesmartdeveloperr)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![gseymour1's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thesmartdeveloperr)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![gseymour1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=thesmartdeveloperr)](https://github.com/DenverCoder1/github-readme-streak-stats)
